@@ -82,7 +82,7 @@ layers:
   - $
   - {type: held}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: A, h: ADJ}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -126,7 +126,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: A, h: ADJ}
   - {t: ▽, type: trans}
   - {type: held}
   ADJ:
@@ -168,7 +168,7 @@ layers:
   - Reset
   - {type: held}
   - ''
-  - {t: ▽, type: trans}
+  - {type: held}
   - ''
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
