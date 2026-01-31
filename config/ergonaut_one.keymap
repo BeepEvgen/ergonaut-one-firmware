@@ -40,7 +40,7 @@
 &mt LGUI F1          &kp F2     &kp N7  &kp N8  &kp N9  &kp AT_SIGN  &kp HASH         &kp LEFT_BRACKET      &kp UNDERSCORE  &kp PIPE          &kp RIGHT_BRACKET  &kp PERCENT
 &kp PSCRN            &kp MINUS  &kp N4  &kp N5  &kp N6  &kp PLUS     &kp EQUAL        &kp LEFT_PARENTHESIS  &kp STAR        &kp AMPERSAND     &kp RPAR           &kp CARET
 &mt LALT KP_NUMLOCK  &kp N0     &kp N1  &kp N2  &kp N3  &kp DOT      &kp EXCLAMATION  &kp LEFT_BRACE        &kp LESS_THAN   &kp GREATER_THAN  &kp RIGHT_BRACE    &kp DOLLAR
-                                        &trans  &trans  &mo 3        &trans           &trans                &trans
+                                        &trans  &trans  &to 3        &trans           &trans                &trans
             >;
         };
 
@@ -50,7 +50,7 @@
 &mt LGUI KP_NUM  &kp KP_SLASH     &kp F7  &kp F8  &kp F9  &kp F10  &kp PRINTSCREEN  &kp K_PREV  &kp C_VOL_DN  &kp C_VOLUME_UP  &kp K_NEXT       &kp K_MUTE
 &mt LCTRL EQUAL  &kp KP_MULTIPLY  &kp F4  &kp F5  &kp F6  &kp F11  &kp K_CALC       &kp LEFT    &kp UP        &kp RIGHT        &kp INS          &kp K_PLAY_PAUSE
 &kp LALT         &kp KP_N0        &kp F1  &kp F2  &kp F3  &kp F12  &kp LWIN         &kp END     &kp DOWN      &kp PG_DN        &kp PAUSE_BREAK  &kp RALT
-                                          &trans  &trans  &trans   &mo 3            &trans      &trans
+                                          &trans  &trans  &trans   &to 3            &trans      &trans
             >;
         };
 
