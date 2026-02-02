@@ -87,7 +87,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   NUM:
-  - {t: KP NUM, h: Gui}
+  - '~'
   - KP SLASH
   - F7
   - F8
