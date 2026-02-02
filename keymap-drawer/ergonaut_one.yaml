@@ -46,9 +46,9 @@ layers:
   SYM:
   - {t: F1, h: Gui}
   - F2
-  - '7'
-  - '8'
-  - '9'
+  - KP 7
+  - KP 8
+  - KP 9
   - '@'
   - '#'
   - '['
@@ -58,9 +58,9 @@ layers:
   - '%'
   - Print Scrn
   - '-'
-  - '4'
-  - '5'
-  - '6'
+  - KP 4
+  - KP 5
+  - KP 6
   - +
   - '='
   - (
@@ -69,10 +69,10 @@ layers:
   - )
   - ^
   - {t: KP NUMLOCK, h: Alt}
-  - '0'
-  - '1'
-  - '2'
-  - '3'
+  - KP 0
+  - KP 1
+  - KP 2
+  - KP 3
   - .
   - '!'
   - '{'
@@ -94,10 +94,10 @@ layers:
   - F9
   - F10
   - PRINTSCREEN
-  - PREV
+  - ⏮️
   - Vol Down
   - VOLUME UP
-  - NEXT
+  - ⏭️
   - MUTE
   - {t: '=', h: Ctrl}
   - KP MULTIPLY
@@ -105,7 +105,7 @@ layers:
   - F5
   - F6
   - F11
-  - CALC
+  - Sft+Calc
   - ←
   - ↑
   - →
