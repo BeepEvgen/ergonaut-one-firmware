@@ -134,7 +134,7 @@ layers:
   - '&studio_unlock'
   - ''
   - ''
-  - ''
+  - BT CLR ALL
   - {t: BT DISC, h: '0'}
   - ''
   - ''
